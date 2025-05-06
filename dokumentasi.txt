@@ -1,0 +1,5 @@
+ubah ini di compose
+
+
+v1= wordpress original (db_backup.sql)
+v3= wordpress + woocommerce (db_backup_woocomerce.sql)
